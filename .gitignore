@@ -41,4 +41,5 @@ Thumbs.db
 *.csv
 *.log
 *.tmp
-*.temp 
+*.temp
+pyproject.toml 
