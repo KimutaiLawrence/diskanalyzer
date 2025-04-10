@@ -2,6 +2,17 @@
 
 A fast CLI tool for analyzing disk usage on Windows. This tool scans directories to identify large files and folders, flags items that are safe to delete, and provides interactive deletion options.
 
+## Demo
+
+![Disk Cleaner Demo](demo.png)
+
+The above screenshot shows Disk Cleaner scanning the Downloads directory, displaying:
+- A progress bar showing the scan progress
+- A table of the largest files found
+- File sizes in human-readable format
+- Safety indicators for each item
+- Summary statistics of the scan
+
 ## Features
 
 - Scan directories to identify large files and folders
